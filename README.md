@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gourav Nagar (@gouravanagar1487)
-- 👀 I’m interested in Big data tools and technolgies and spark developement 
+- 👀 I'm experienced in Big data tools and technolgies and spark developement 
 - 🌱 I’m currently learning AWS Cloud and data mogration on AWS cloud
 - 💞️ I’m looking to collaborate on different tools and technology
 - 📫 Please reach me on - https://www.linkedin.com/in/gourav-nagar-302540118/
